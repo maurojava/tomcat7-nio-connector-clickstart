@@ -4,7 +4,7 @@
     "source": "git://github.com/CloudBees-community/tomcat7-nio-connector-clickstart.git",
     "description" : "enable Tomcat 7 NIO connector for your web app",
     "doc-url" : "https://github.com/CloudBees-community/tomcat7-nio-connector-clickstart/blob/master/README.md",
-    "app-package": "http://repository-community.forge.cloudbees.com/snapshot/localdomain/localhost/tomcat7-nio-connector-clickstart/1.0-SNAPSHOT/tomcat7-nio-connector-clickstart-1.0-20130702.140405-14.war",
+    "app-package": "http://repository-community.forge.cloudbees.com/snapshot/localdomain/localhost/tomcat7-nio-connector-clickstart/1.0-SNAPSHOT/tomcat7-nio-connector-clickstart-1.0-20130730.223007-1.war",
     "icon" : "https://raw.github.com/CloudBees-community/tomcat7-nio-connector-clickstart/master/icon.png",
 
     "supported-by" : "cloudbees",

@@ -21,8 +21,11 @@ INFO: Using a shared selector for servlet write/read
 Jul 30, 2013 9:54:43 PM org.apache.coyote.AbstractProtocol start
 INFO: Starting ProtocolHandler ["http-nio-8751"]
 ...
-``
+```
 
+
+
+![Tomcat7 NIO Connector Clickstart Icon](icon.png)
 
 
 
